@@ -322,3 +322,6 @@ footer {
     color:#444;
   }
 }
+ul.menu{
+  list-style:square inside;
+}
