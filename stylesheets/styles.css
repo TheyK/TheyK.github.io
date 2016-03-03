@@ -170,7 +170,7 @@ header ul {
   padding:0;
   background: #f4f4f4;
   border-radius:5px;
-  border:1px solid #e0e0e0;
+  border:none;
   width:270px;
 }
 
@@ -321,7 +321,4 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-ul.menu{
-  list-style:square inside;
 }
