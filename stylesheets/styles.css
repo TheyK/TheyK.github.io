@@ -323,7 +323,7 @@ footer {
   }
 }
 ul.menu{
-  list-style:none;
+  list-style:square inside;
   height:40px;
   padding:0;
   background: #f4f4f4;
