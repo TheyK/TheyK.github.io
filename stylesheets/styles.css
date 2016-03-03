@@ -322,3 +322,18 @@ footer {
     color:#444;
   }
 }
+ul.menu{
+  list-style:none;
+  height:40px;
+  padding:0;
+  background: #f4f4f4;
+  border-radius:5px;
+  border:none;
+  width:270px;
+}
+.menu li{
+  width:89px;
+  float:center;
+  border:none
+  height:40px;
+}
