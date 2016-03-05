@@ -1,4 +1,4 @@
-/*µ¼º½µ±Ç°Ò³¸ßÁÁ*/
+/*å¯¼èˆªå½“å‰é¡µé«˜äº®*/
 
 var obj=null;
 var As=document.getElementById('topnav').getElementsByTagName('a');
